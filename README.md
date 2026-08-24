@@ -1,6 +1,7 @@
 # Education-Institution-Data-Analysis
-##1.How many total student leads did the institution receive?
-﻿﻿##2.﻿How many students were enrolled?
+1.How many total student leads did the institution receive?
+
+﻿﻿2.﻿How many students were enrolled?
 ﻿﻿﻿What is the overall conversion rate?
 ﻿﻿﻿Which courses receive the most leads?
 ﻿﻿﻿Which courses have the highest and lowest conversion rates?

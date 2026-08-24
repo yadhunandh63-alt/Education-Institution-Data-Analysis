@@ -1,6 +1,6 @@
 # Education-Institution-Data-Analysis
 
-Requirements
+## Requirements
 
 1.How many total student leads did the institution receive?
 
